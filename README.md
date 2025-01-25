@@ -1,3 +1,3 @@
 # merito-2025
-hello world
 plik zedytowany na remote
+plik zmodyfikowany na branch-wojtek
